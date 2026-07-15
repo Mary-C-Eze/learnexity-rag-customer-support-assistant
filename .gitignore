@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.env
+
+learnexity_chroma_db/
+
+*.log
+
+.DS_Store
